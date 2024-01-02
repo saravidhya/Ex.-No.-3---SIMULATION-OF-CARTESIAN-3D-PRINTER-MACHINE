@@ -60,7 +60,7 @@
 ![Screenshot 2024-01-02 203030](https://github.com/saravidhya/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/87062069/32ba77e4-30e6-4100-987d-ea30d7b41118)
 
 
-### Name: vidhiya lakshimi.S
+### Name: vidhiya lakshmi.S
 ### Register Number:23012308
 
 ## Result: 
